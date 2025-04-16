@@ -2,7 +2,7 @@
   "mcpServers": {
     "mindverse": {
       "command": "python",
-      "args": ["{Your own path}/Second-Me/mcp/mcp_public.py"]
+      "args": ["{Local Path}Second-Me/mcp/mcp_public.py"]
     }
   }
 }
